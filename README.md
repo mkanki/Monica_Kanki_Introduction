@@ -1,10 +1,8 @@
 # Monica Kanki
-Hi there! Thanks for visiting..
-I’m Monica! 
-A former research scientist who has found a new passion for working with data (rephrase)
+Hi there! Thanks for visiting
+I’m Monica! A former research scientist who has found a new passion for working with data (rephrase)
 
 Connect with me
-
 LinkedIn profile
 CV
 
@@ -15,4 +13,9 @@ Visualisation: Python, R, Tableau
 
 Pinned Projects
 
+
+Currently Learning 
+Machine Learning
+Advanced SQL
+Statistical Modelling
 
