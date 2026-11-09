@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a former research scientist who has found a ne
 
 I'm developing my skills in data science, analytics and visualisation. I am a big believer in using practical projects to apply what I learn. 
 
-👩‍💻 About Me
+### 👩‍💻 About Me
 📊 Interested in data science, data analytics and business intelligence.
 🐍 Developing my Python and SQL skills.
 📈 Enjoy exploring datasets, identifying trends and communicating insights.
@@ -13,16 +13,16 @@ I'm developing my skills in data science, analytics and visualisation. I am a bi
 🚀 Building a portfolio of practical data projects.
 🛠️ Technical Skills & Tools
 
-Category	Technologies
+
+### Category	Technologies
 - Programming	Python, SQL
-Data Analysis	Pandas, NumPy, Excel
-Data Visualisation	Matplotlib, Seaborn, Power BI
-Machine Learning	Scikit-learn
-Development Tools	Jupyter Notebook, Git, GitHub
-📂 My Projects
+- Data Analysis	Pandas, NumPy, Excel
+- Data Visualisation	Matplotlib, Seaborn, Power BI
+- Machine Learning	Scikit-learn
+- Development Tools	Jupyter Notebook, Git, GitHub
 
 
-➡️ View My Data Portfolio Here
+### 📂 View My Data Projects Here
 - Data Cleaning & Preparation
 - Exploratory Data Analysis (EDA)
 - Statistical Analysis
@@ -30,16 +30,21 @@ Development Tools	Jupyter Notebook, Git, GitHub
 - Predictive Modelling
 - Business Intelligence
 
-📚 Currently Learning
+
+### 📚 Currently Learning
 - Python for Machine Learning
 - Advanced SQL for Data Analysis
 - Statistical Modelling
 - Deep learning
 - Data Visualisation
-  
-🤝 Let's Connect!
-💼 LinkedIn: Your LinkedIn Profile
-📧 Email: Monica.kanki@gmail.com
-📄 Professional history: [View My CV (PDF)]
 
-⭐ Thank you for visiting my GitHub profile!
+  
+### 🤝 Let's Connect!
+
+💼 LinkedIn: https://www.linkedin.com/in/monica-kanki 
+
+📧 Email: Monica.kanki@gmail.com  
+
+📄 Professional History: [View My CV (PDF)](documents/CV.pdf)
+
+### ⭐ Thank you for visiting my GitHub profile!
