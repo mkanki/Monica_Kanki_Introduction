@@ -3,18 +3,22 @@ Data Scientist | Data Visualisation Enthusiast | Former Research Scientist
 
 Welcome to my GitHub profile! I'm a former research scientist who has found a new passion for working with data. 
 
-I'm developing my skills in data science, analytics and visualisation. I am a big believer in using practical projects to apply what I learn. 
+📊 Interested in data science, data analytics and business intelligence
+
+I'm developing my skills in data science, analytics and visualisation. I am a big believer in creating practical projects to apply what I learn. 
 
 ### 👩‍💻 About Me
-📊 Interested in data science, data analytics and business intelligence.
-🐍 Developing my Python and SQL skills.
-📈 Enjoy exploring datasets, identifying trends and communicating insights.
-🤖 Learning about machine learning and predictive modelling.
-🚀 Building a portfolio of practical data projects.
-🛠️ Technical Skills & Tools
+🌍 I am passionate about shifting the focus in healthcare towards disease prevention, early intervention and better health outcomes
+
+🩺 How? I believe data science can help us educate and empower people to   To improve health literacy among adults across Australia, empowering people to make more informed decisions about their health
+🐍 Developing my Python and SQL skills
+📈 Enjoy exploring datasets, identifying trends and communicating insights
+🤖 Learning about machine learning and predictive modelling
+🚀 Sharing what I've learnt with everyone
 
 
-### Category	Technologies
+
+### 🛠️ Technical Skills & Tools
 - Programming	Python, SQL
 - Data Analysis	Pandas, NumPy, Excel
 - Data Visualisation	Matplotlib, Seaborn, Power BI
