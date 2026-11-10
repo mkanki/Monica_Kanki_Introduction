@@ -1,20 +1,20 @@
 # Hi, I'm Monica! 👋
-Data Scientist | Data Visualisation Enthusiast | Former Research Scientist
+#### Data Scientist | Data Visualisation Enthusiast | Former Research Scientist
 
-Welcome to my GitHub profile! I'm a former research scientist who has found a new passion for working with data. 
+Welcome to my GitHub profile! 
 
-📊 Interested in data science, data analytics and business intelligence
+I'm a former research scientist who has found a new passion for working with data in every way -  data modelling, analytics and visualisation
 
-I'm developing my skills in data science, analytics and visualisation. I am a big believer in creating practical projects to apply what I learn. 
+## 👩🏽‍💻 About Me
+🌍 Improving Health Literacy: I am passionate about shifting the focus in healthcare towards disease prevention and early intervention
 
-### 👩‍💻 About Me
-🌍 I am passionate about shifting the focus in healthcare towards disease prevention, early intervention and better health outcomes
+🏥 Healthcare is interconnected: Chronic disease is growing, and it reaches far beyond the patient. It costs our hospitals, workforce, and loved ones 
 
-🩺 How? I believe data science can help us educate and empower people to   To improve health literacy among adults across Australia, empowering people to make more informed decisions about their health
-🐍 Developing my Python and SQL skills
-📈 Enjoy exploring datasets, identifying trends and communicating insights
-🤖 Learning about machine learning and predictive modelling
-🚀 Sharing what I've learnt with everyone
+📊 What I believe: A barrier to health progress is not a shortage of ideas but a lack of representative data and the ability to translate it into reliable, actionable knowledge 
+
+🩺 Why Data Science? This explosion in data & AI gives us a chance to inform policy and empower people to make more informed decisions about their health
+
+🚀 Communication and education: Sharing every part of my journey down to the literature, business intelligence, experimental design, statistics, data science, and data analytics  
 
 
 
