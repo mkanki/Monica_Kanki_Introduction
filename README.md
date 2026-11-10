@@ -1,5 +1,5 @@
-# Hi, I'm Monica! 👋
-#### Data Scientist | Data Visualisation Enthusiast | Former Research Scientist
+# Hi there, I'm Monica! 👋
+#### Research scientist building a career in health data science
 
 Welcome to my GitHub profile! 
 
@@ -8,13 +8,13 @@ I'm a former research scientist who has found a new passion for working with dat
 ## 👩🏽‍💻 About Me
 🌍 Improving Health Literacy: I am passionate about shifting the focus in healthcare towards disease prevention and early intervention
 
-🏥 Healthcare is interconnected: Chronic disease is growing, and it reaches far beyond the patient. It costs our hospitals, workforce, and loved ones 
+🏥 Healthcare is interconnected: Chronic disease is growing, and it reaches far beyond the patient. It costs our hospitals, workforce, ecomony and loved ones 
 
-📊 What I believe: A barrier to health progress is not a shortage of ideas but a lack of representative data and the ability to translate it into reliable, actionable knowledge 
+📊 What I believe: The biggest barrier to health progress is not a shortage of ideas but a lack of representative data and the ability to translate it into reliable, actionable knowledge 
 
-🩺 Why Data Science? This explosion in data & AI gives us a chance to inform policy and empower people to make more informed decisions about their health
+🩺 Why Data Science? This explosion in data & AI gives us a chance to inform policy like never before and empower people to make informed decisions about their own health
 
-🚀 Communication and education: Sharing every part of my journey down to the literature, business intelligence, experimental design, statistics, data science, and data analytics  
+🚀 Sharing every part of my journey down to the literature, business intelligence, experimental design, statistics, data science, and data analytics  
 
 <br>
 
@@ -54,4 +54,6 @@ I'm a former research scientist who has found a new passion for working with dat
 
 📄 Professional History: [View My CV (PDF)](documents/CV.pdf)
 
-### ⭐ Thank you for visiting my GitHub profile!
+<br>
+
+### ⭐ Thank you for visiting my profile!
