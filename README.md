@@ -16,7 +16,7 @@ I'm a former research scientist who has found a new passion for working with dat
 
 🚀 Communication and education: Sharing every part of my journey down to the literature, business intelligence, experimental design, statistics, data science, and data analytics  
 
-
+<br>
 
 ### 🛠️ Technical Skills & Tools
 - Programming	Python, SQL
@@ -25,6 +25,7 @@ I'm a former research scientist who has found a new passion for working with dat
 - Machine Learning	Scikit-learn
 - Development Tools	Jupyter Notebook, Git, GitHub
 
+<br>
 
 ### 📂 View My Data Projects Here
 - Data Cleaning & Preparation
@@ -34,6 +35,7 @@ I'm a former research scientist who has found a new passion for working with dat
 - Predictive Modelling
 - Business Intelligence
 
+<br>
 
 ### 📚 Currently Learning
 - Python for Machine Learning
@@ -42,6 +44,7 @@ I'm a former research scientist who has found a new passion for working with dat
 - Deep learning
 - Data Visualisation
 
+<br>
   
 ### 🤝 Let's Connect!
 
