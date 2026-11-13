@@ -27,7 +27,7 @@ I'm a research scientist who has found a new passion for working with data in ev
 
 <br>
 
-### 📂 View My Data Projects Here
+### 📂 View My Data Projects [Here](https://github.com/mkanki/data-science-portfolio.git) 
 - Data Cleaning & Preparation
 - Exploratory Data Analysis (EDA)
 - Statistical Analysis
