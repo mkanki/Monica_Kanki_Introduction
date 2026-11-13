@@ -1,29 +1,29 @@
 # Hi there, I'm Monica! 👋
-#### Research scientist building a career in health data science
+#### Research scientist building a career in health data science & analytics
 
 Welcome to my GitHub profile! 
 
-I'm a former research scientist who has found a new passion for working with data in every way -  data modelling, analytics and visualisation
+I'm a research scientist who has found a new passion for working with data in every way -  data modelling, analytics and visualisation
 
 ## 👩🏽‍💻 About Me
-🌍 Improving Health Literacy: I am passionate about shifting the focus in healthcare towards disease prevention and early intervention
+🌍 Improving Health Literacy: I am passionate about strengthening disease prevention and early intervention in healthcare
 
-🏥 Healthcare is interconnected: Chronic disease is growing, and it reaches far beyond the patient. It costs our hospitals, workforce, ecomony and loved ones 
+🏥 Healthcare is interconnected: Chronic disease is growing, and it reaches far beyond just the patient to our hospitals, workforce, ecomony and loved ones 
 
-📊 What I believe: The biggest barrier to health progress is not a shortage of ideas but a lack of representative data and the ability to translate it into reliable, actionable knowledge 
+📊 What I believe: The biggest barrier to health progress is not a shortage of ideas but a lack of representative data and the ability to turn it into reliable, actionable knowledge 
 
-🩺 Why Data Science? This explosion in data & AI gives us a chance to inform policy like never before and empower people to make informed decisions about their own health
+🩺 Why Data Science? This explosion in data & AI gives us a massive opportunity to inform policy like never before and empower people to make better decisions about their own health
 
-🚀 Sharing every part of my journey down to the literature, business intelligence, experimental design, statistics, data science, and data analytics  
+🚀 Sharing every part of my journey down to the literature, business intelligence, experimental design, statistics, ML algorithms, and data analytics  
 
 <br>
 
 ### 🛠️ Technical Skills & Tools
-- Programming	Python, SQL
-- Data Analysis	Pandas, NumPy, Excel
-- Data Visualisation	Matplotlib, Seaborn, Power BI
-- Machine Learning	Scikit-learn
-- Development Tools	Jupyter Notebook, Git, GitHub
+- Programming: Python, SQL
+- Data Analysis:	Pandas, NumPy, Excel
+- Data Visualisation:	Matplotlib, Seaborn
+- Machine Learning: Scikit-learn
+- Development Tools: Jupyter Notebook, GitHub, Google Collab
 
 <br>
 
@@ -42,7 +42,7 @@ I'm a former research scientist who has found a new passion for working with dat
 - Advanced SQL for Data Analysis
 - Statistical Modelling
 - Deep learning
-- Data Visualisation
+- Data Visualisation: PowerBI
 
 <br>
   
